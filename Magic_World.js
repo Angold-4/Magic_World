@@ -633,7 +633,7 @@
         var GL = getStyle(greenwizard, 'left')
         if (GL <= wL + 101 && B == false){
             CLEar()
-            alert("Greenwizard win!")
+            alert("Greenwizard Win!")
         }
     }
     function CLEar(){
@@ -651,8 +651,6 @@
         GW.src = "sources/greenwizard.gif"
         WD.src = "sources/wizarddefined.gif"
     }
-
-
 
 
 
