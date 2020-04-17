@@ -1,4 +1,4 @@
 # Magic_World
 3 JS Game Include Brave_The_Dragon and Perfect_Konckout 
-<img src = "Index.jpeg">
+<div><img src = "index.jpeg"></div>
 
